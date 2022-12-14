@@ -10,3 +10,4 @@ React.useState() //배열 첫번째인자 = 값 두번째인자 = 실행할 함�
 for => htmlFor class => className
 
 #4
+props : Component를 선언한 부분에서 변수명과 값으로 Component에 {} 객체로 넘겨 줄 수 있음
