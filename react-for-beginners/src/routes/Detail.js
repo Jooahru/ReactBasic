@@ -23,7 +23,7 @@ function Detail() {
         <h1>Loading...</h1>
       ) : (
         <div>
-          <h1>Detail</h1>
+          <h1></h1>
           <Movie
             key={movie.id}
             id={movie.id}
